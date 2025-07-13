@@ -10,6 +10,11 @@ Welcome to this repository — a curated collection of Linux study material, pra
 - Monitoring
 - Linux in Cloud (Azure, AWS)
 
+## Blog Series
+
+- [Part 1: User & Group Management](./user-group-admin.md)
+- [Part 2: File System Management](./file-system-management.md)
+
 ## About Me
 I'm a self-taught Cloud & IT Infrastructure Engineer with expertise in Azure, Microsoft 365, AWS, and system administration across Linux and Windows.
 
