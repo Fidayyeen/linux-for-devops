@@ -16,7 +16,7 @@ Welcome to this repository — a curated collection of Linux study material, pra
 - [Part 2: File System Management](./file-system-management.md)
 
 ## About Me
-I'm a self-taught Cloud & IT Infrastructure Engineer with expertise in Azure, Microsoft 365, AWS, and system administration across Linux and Windows.
+I'm a self-taught Cloud & IT Infrastructure Engineer with expertise in Azure, AWS, MS 365 and other system administration across Linux and Windows.
 
 Check out my blog: https://bytesandclouds.blogspot.com
 
